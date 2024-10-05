@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Profile</title>
+</head>
+<body>
+    <h1>User Profile</h1>
+    <p><strong>Username:</strong> {{ user['username'] }}</p>
+    <p><strong>First Name:</strong> {{ user['firstname'] }}</p>
+    <p><strong>Last Name:</strong> {{ user['lastname'] }}</p>
+    <p><strong>Email:</strong> {{ user['email'] }}</p>
+
+    <h2>Extra Credit - Upload Limerick</h2>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <label>Select Limerick File: <input type="file" name="file"></label><br>
+        <input type="submit" value="Upload">
+    </form>
+    <a href="/download">Download Limerick</a>
+</body>
+</html>
