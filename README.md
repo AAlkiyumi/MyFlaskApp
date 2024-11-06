@@ -57,10 +57,6 @@ Design an interactive web page with the following features:
 
 Below are the key screenshots documenting each step of the application setup on AWS EC2.
 
-## Application Setup Screenshots
-
-Below are the key screenshots documenting each step of the application setup on AWS EC2.
-
 ![Image 1](Images/image1.png)
 ![Image 2](Images/image2.png)
 ![Image 11](Images/image11.png)
