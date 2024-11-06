@@ -61,11 +61,11 @@ Below are the key screenshots documenting each step of the application setup on 
 
 Below are the key screenshots documenting each step of the application setup on AWS EC2.
 
-1. ![Image 1](Images/image1.png)
-2. ![Image 2](Images/image2.png)
-3. ![Image 11](Images/image11.png)
-4. ![Image 12](Images/image12.png)
-5. ![Image 13](Images/image13.png)
-6. ![Image 14](Images/image14.png)
-7. ![Image 15](Images/image15.png)
+![Image 1](Images/image1.png)
+![Image 2](Images/image2.png)
+![Image 11](Images/image11.png)
+![Image 12](Images/image12.png)
+![Image 13](Images/image13.png)
+![Image 14](Images/image14.png)
+![Image 15](Images/image15.png)
 
